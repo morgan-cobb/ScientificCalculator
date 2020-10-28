@@ -33,6 +33,8 @@ public class Calculator
                 break;
             default: //Print the error if the correct operation is not chosen
                 System.out.println("Error: Invalid selection! Terminating program.");
+		
+		//I added a comment
         }
 
 }
